@@ -9,3 +9,6 @@ dist
 
 # developer environment specific
 .idea
+
+# logs files
+server.log
